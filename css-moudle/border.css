@@ -1,0 +1,16 @@
+body {
+   border: 10px solid darkmagenta;
+}
+.qwe{
+    border: 10px solid black;
+}
+#eee{
+    border: 10px solid green;
+}
+.outer .inner{
+    border: 10px solid red;
+}
+
+a{
+    resize: both;
+}

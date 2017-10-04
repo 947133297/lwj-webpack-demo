@@ -1,0 +1,5 @@
+$primaryColor: #333;
+.s1{
+  background: $primaryColor;
+  composes: s1 from './2.scss';
+}

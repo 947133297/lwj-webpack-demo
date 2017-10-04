@@ -1,0 +1,12 @@
+body {
+  background-color: blue;
+}
+:global(.qwe){
+  font-size: 40px;
+}
+#eee{
+  color: aqua;
+}
+.outer .inner{
+  font-weight: 900;
+}

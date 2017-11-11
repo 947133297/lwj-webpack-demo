@@ -6,7 +6,7 @@
 </template>
 
 <script>
-    import inner from './inner.vue'
+    import inner from './inner'
 
     export default {
         components: {

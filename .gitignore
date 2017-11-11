@@ -1,4 +1,2 @@
-
 \.idea/
-
-vuedemo/demo02/node_modules/
+**/node_modules/

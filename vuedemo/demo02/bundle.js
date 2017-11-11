@@ -11816,7 +11816,7 @@ exports = module.exports = __webpack_require__(1)(undefined);
 
 
 // module
-exports.push([module.i, "\n.hello[data-v-35bfe619]{\n    font-weight: bold;\n}\n", ""]);
+exports.push([module.i, "\n.hello[data-v-35bfe619]{\n    font-weight: bold;\n    /* test postcss*/\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n}\n", ""]);
 
 // exports
 

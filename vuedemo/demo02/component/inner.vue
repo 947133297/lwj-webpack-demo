@@ -18,5 +18,7 @@
 <style scoped>
     .hello{
         font-weight: bold;
+        /* test postcss*/
+        display: flex;
     }
 </style>
